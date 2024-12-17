@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6O3S1EMD/gX6xtzdIEnp0gRf6SpIyYpFMu0kXGcOa1t2dn6WA0Zui2cQulb0cRew6cLclFVHE0xqoiAYT6v21g==",
+  "success": true,
+  "projectFilePath": "C:\\ITProjects\\.Net\\!PetProjects\\TradeHub\\src\\CatalogService\\CatalogService.Application\\CatalogService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semen\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
