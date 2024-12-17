@@ -13,3 +13,4 @@ C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Appli
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Application\obj\Debug\net8.0\refint\CatalogService.Application.dll
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Application\obj\Debug\net8.0\CatalogService.Application.pdb
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Application\obj\Debug\net8.0\ref\CatalogService.Application.dll
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Application\obj\Debug\net8.0\CatalogService.Application.sourcelink.json

@@ -141,3 +141,4 @@ C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.API\o
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.API\obj\Debug\net8.0\CatalogService.API.pdb
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.API\obj\Debug\net8.0\CatalogService.API.genruntimeconfig.cache
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.API\obj\Debug\net8.0\ref\CatalogService.API.dll
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.API\obj\Debug\net8.0\CatalogService.API.sourcelink.json

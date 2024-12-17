@@ -13,3 +13,4 @@ C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Infra
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Infrastructure\obj\Debug\net8.0\refint\CatalogService.Infrastructure.dll
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Infrastructure\obj\Debug\net8.0\CatalogService.Infrastructure.pdb
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Infrastructure\obj\Debug\net8.0\ref\CatalogService.Infrastructure.dll
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Infrastructure\obj\Debug\net8.0\CatalogService.Infrastructure.sourcelink.json

@@ -9,3 +9,4 @@ C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Domai
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Domain\obj\Debug\net8.0\refint\CatalogService.Domain.dll
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Domain\obj\Debug\net8.0\CatalogService.Domain.pdb
 C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Domain\obj\Debug\net8.0\ref\CatalogService.Domain.dll
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\CatalogService\CatalogService.Domain\obj\Debug\net8.0\CatalogService.Domain.sourcelink.json
