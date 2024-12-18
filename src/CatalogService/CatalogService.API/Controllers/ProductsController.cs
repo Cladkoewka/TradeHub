@@ -16,7 +16,7 @@ public class ProductsController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<ProductGetDto>>> GetAll() // что лучше ActionResult или IActionResult
+    public async Task<ActionResult<IEnumerable<ProductGetDto>>> GetAll() 
     {
         var products = await _service.GetAllProductsAsync();
         return Ok(products);

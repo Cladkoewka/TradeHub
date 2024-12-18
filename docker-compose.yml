@@ -12,6 +12,19 @@
     volumes:
       - catalog-data:/var/lib/postgresql/data
   
+  users-db:
+    image: postgres:latest
+    container_name: users-db
+    environment:
+      POSTGRES_DB: usersdb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1339
+    ports:
+      - "5433:5432"
+    volumes:
+      - users-data:/var/lib/postgresql/data
+  
 
 volumes:
   catalog-data:
+  users-data:

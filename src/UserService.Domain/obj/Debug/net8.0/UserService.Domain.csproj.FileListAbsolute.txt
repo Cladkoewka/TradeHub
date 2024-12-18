@@ -1,0 +1,12 @@
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\bin\Debug\net8.0\UserService.Domain.deps.json
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\bin\Debug\net8.0\UserService.Domain.dll
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\bin\Debug\net8.0\UserService.Domain.pdb
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\obj\Debug\net8.0\UserService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\obj\Debug\net8.0\UserService.Domain.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\obj\Debug\net8.0\UserService.Domain.AssemblyInfo.cs
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\obj\Debug\net8.0\UserService.Domain.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\obj\Debug\net8.0\UserService.Domain.sourcelink.json
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\obj\Debug\net8.0\UserService.Domain.dll
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\obj\Debug\net8.0\refint\UserService.Domain.dll
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\obj\Debug\net8.0\UserService.Domain.pdb
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Domain\obj\Debug\net8.0\ref\UserService.Domain.dll

@@ -1,0 +1,16 @@
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.deps.json
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.dll
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.pdb
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.dll
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.pdb
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfo.cs
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.sourcelink.json
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\obj\Debug\net8.0\UserServ.28B62BA0.Up2Date
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.dll
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\obj\Debug\net8.0\refint\UserService.Infrastructure.dll
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.pdb
+C:\ITProjects\.Net\!PetProjects\TradeHub\src\UserService.Infrastructure\obj\Debug\net8.0\ref\UserService.Infrastructure.dll
